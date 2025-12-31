@@ -1,4 +1,4 @@
-#  Heatmiser WiFi Home Assistant Component
+#  Heatmiser WiFi Thermostat Home Assistant Climate Component
 
 
 Alternate approach to update the intergration -  [iainbullock/heatmiser_wifi_ha](https://github.com/iainbullock/heatmiser_wifi_ha).
